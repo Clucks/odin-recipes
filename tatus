@@ -1,0 +1,35 @@
+[33mcommit 809c257726d5c2d43de48c292a53f6bc0adb2ed7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vincent <vincent854321@gmail.com>
+Date:   Sat Sep 3 23:14:43 2022 -0500
+
+    Added recipe directory and added content
+
+[33mcommit 32bcf2957a5f40172ffac0e620fcd197a99db1ee[m
+Author: Vincent <vincent854321@gmail.com>
+Date:   Fri Sep 2 21:54:44 2022 -0500
+
+    added the recipe step list
+
+[33mcommit 4dde580340eb2d0178983c736a2ac77f81fb115d[m
+Author: Vincent <vincent854321@gmail.com>
+Date:   Fri Sep 2 21:48:30 2022 -0500
+
+    created a recipe directory?
+
+[33mcommit 86d7628bf152aca583080f04d907ae4246ee23f4[m
+Author: Vincent <vincent854321@gmail.com>
+Date:   Fri Sep 2 21:47:10 2022 -0500
+
+    Added pictures of spaghetti, added ingredients list and recipe steps
+
+[33mcommit b853b8975aab60148dafb277537e7d21eae9bb94[m
+Author: Vincent <vincent854321@gmail.com>
+Date:   Fri Sep 2 11:12:30 2022 -0500
+
+    Added spaghetti files to images folder
+
+[33mcommit 79ffa82fc42469e289dd4e6e7bbedd6ced8bed35[m
+Author: Clucks <Vincent854321@gmail.com>
+Date:   Thu Sep 1 13:25:16 2022 -0600
+
+    Initial commit
